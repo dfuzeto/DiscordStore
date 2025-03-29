@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: green;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="text"],
+textarea {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: black;
+    color: green;
+    resize: both; 
+    overflow-x: auto; 
+    overflow-y: auto; 
+}
+
+button[type="submit"],
+button#load-keys,
+button#remove-item {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover,
+button#load-keys:hover,
+button#remove-item:hover {
+    background-color: darkgreen;
+}
+
+#keys {
+    margin-top: 20px;
+    border: 1px solid green;
+    padding: 10px;
+    background-color: black;
+    color: green;
+    width: 300px;
+    max-width: 80%;
+    overflow-x: auto;
+}
