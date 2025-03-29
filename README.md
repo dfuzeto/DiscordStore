@@ -32,11 +32,3 @@ The backend API, built with Node.js, serves as the communication hub for all com
 To see the system in action, check out this demonstration video:
 
 [Demo Video](https://www.youtube.com/watch?v=MMFW8mzsVbE)
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, feel free to fork it, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
