@@ -31,4 +31,4 @@ The backend API, built with Node.js, serves as the communication hub for all com
 
 To see the system in action, check out this demonstration video:
 
-[Demo Video](https://www.youtube.com/watch?v=MMFW8mzsVbE)
+[Demo Video]([https://www.youtube.com/watch?v=MMFW8mzsVbE](https://github.com/user-attachments/assets/79f612d2-7e5f-4266-9e48-61903c0241a0))
