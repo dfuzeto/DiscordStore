@@ -1,6 +1,6 @@
 ## Rox Sell System
 
-#(THIS IS DEMO VERSION
+#THIS IS DEMO VERSION
 
 This project integrates a Discord bot, developed using Axios and Discord.js, with the Mercado Pago API to facilitate the sale of game keys. The application automates the purchasing process, allowing users to acquire game keys directly on Discord, with payment integration through Mercado Pago.
 
