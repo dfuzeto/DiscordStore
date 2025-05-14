@@ -48,6 +48,5 @@ Para ver o sistema em funcionamento, acesse o vídeo demonstrativo no link abaix
 https://github.com/user-attachments/assets/077550ac-ffff-4e68-80dc-dd6eafb043c1
 
 
-https://github.com/user-attachments/assets/4e723160-0858-47ac-9280-9ce3f6ab7180
 
 
