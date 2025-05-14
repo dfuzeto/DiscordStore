@@ -42,4 +42,12 @@ Recebe as requisições do bot, processa pagamentos via Mercado Pago e atualiza 
 ## Demonstração
 
 Para ver o sistema em funcionamento, acesse o vídeo demonstrativo no link abaixo:  
-https://github.com/user-attachments/assets/79f612d2-7e5f-4266-9e48-61903c0241a0
+
+
+
+https://github.com/user-attachments/assets/077550ac-ffff-4e68-80dc-dd6eafb043c1
+
+
+https://github.com/user-attachments/assets/4e723160-0858-47ac-9280-9ce3f6ab7180
+
+
