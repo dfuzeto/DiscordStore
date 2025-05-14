@@ -1,36 +1,44 @@
-## Rox Sell System
+# Rox Sell System  
+**DEMO VERSION!**
 
-# THIS IS DEMO VERSION!!
+O **Rox Sell System** é uma solução completa que integra um bot para Discord, desenvolvido com **Axios** e **Discord.js**, à API do **Mercado Pago**, facilitando a venda de chaves de jogos.  
+A aplicação automatiza o processo de compra, permitindo que os usuários adquiram chaves diretamente pelo Discord, com integração de pagamentos via Mercado Pago.
 
-This project integrates a Discord bot, developed using Axios and Discord.js, with the Mercado Pago API to facilitate the sale of game keys. The application automates the purchasing process, allowing users to acquire game keys directly on Discord, with payment integration through Mercado Pago.
+Além disso, o sistema conta com um site administrativo que oferece uma interface para gerenciar o estoque de chaves, acompanhar vendas e monitorar transações em tempo real.
 
-The solution includes a website that serves as an interface to control the inventory of game keys, allowing for the management of sales, inventory updates, and transaction tracking in real-time.
+Toda a comunicação entre os componentes (Discord, site e sistema de pagamentos) é centralizada em uma **API desenvolvida em Node.js**, garantindo eficiência, segurança e transparência no fluxo de dados.
 
-The Node.js API centralizes all operations, ensuring seamless communication between the Discord bot, the website, and the payment system efficiently and securely. The backend is responsible for managing the data flow, updating stock, and processing payments transparently.
+---
 
-## Key Features
+## Funcionalidades Principais
 
-- **Discord Bot**: Sell game keys directly on the Discord platform.
-- **Mercado Pago Integration**: Secure payment processing.
-- **Real-time Inventory Control**: Manage and update inventory through an administrative website.
-- **Node.js API**: Centralized management of system operations, ensuring seamless communication between the components.
+- Bot no Discord: Venda de chaves de jogos diretamente pelo Discord.  
+- Integração com Mercado Pago: Processamento de pagamentos seguro.  
+- Controle de Estoque em Tempo Real: Gerencie o estoque através de um painel administrativo.  
+- API em Node.js: Centraliza e integra todos os componentes do sistema.
 
-## How It Works
+---
 
-### 1. **Discord Bot**  
-The bot is responsible for selling game keys directly within Discord. Users can interact with the bot to view available keys and purchase them through a simple interface.
+## Como Funciona
 
-### 2. **Mercado Pago Integration**  
-Mercado Pago is integrated into the system to handle payment processing securely. Once a user chooses a game key to purchase, the bot redirects them to the Mercado Pago checkout for payment.
+### 1. Bot no Discord
+O bot permite a venda de chaves de jogos diretamente na plataforma Discord.  
+Os usuários podem interagir com o bot para visualizar as chaves disponíveis e realizar a compra de forma simples e rápida.
 
-### 3. **Real-Time Inventory Control**  
-The administrative website allows the inventory of game keys to be tracked and managed in real-time. The inventory is updated as sales are made, ensuring that stock levels are always accurate.
+### 2. Integração com Mercado Pago
+O sistema utiliza o Mercado Pago para processar os pagamentos com segurança.  
+Após escolher a chave desejada, o usuário é redirecionado ao checkout do Mercado Pago para efetuar o pagamento.
 
-### 4. **Node.js API**  
-The backend API, built with Node.js, serves as the communication hub for all components. It handles user requests from the Discord bot, interacts with Mercado Pago for payment processing, and updates the inventory via the administrative website.
+### 3. Controle de Estoque em Tempo Real
+O site administrativo possibilita o acompanhamento e a atualização do estoque de chaves em tempo real.  
+Cada venda realizada atualiza automaticamente o sistema, garantindo precisão nos dados.
 
-## Demo
+### 4. API em Node.js
+A API centraliza todas as operações:  
+Recebe as requisições do bot, processa pagamentos via Mercado Pago e atualiza o estoque conforme as movimentações feitas pelo painel administrativo.
 
-To see the system in action, check out this demonstration video:
+---
 
-https://github.com/user-attachments/assets/79f612d2-7e5f-4266-9e48-61903c0241a0
+## Demonstração
+
+Para ver o sistema em funcionamento, assista ao vídeo demonstrativo:  
