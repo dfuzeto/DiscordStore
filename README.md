@@ -42,3 +42,4 @@ Recebe as requisições do bot, processa pagamentos via Mercado Pago e atualiza 
 ## Demonstração
 
 Para ver o sistema em funcionamento, assista ao vídeo demonstrativo:  
+https://github.com/dfuzeto/DiscordStore/issues/1#issue-2958545027
